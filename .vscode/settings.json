@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "intellij-vscode-soft-dark-theme",
+    "jdk.jdkhome": "c:\\Users\\caios\\Documents\\Oracle_JDK-23",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "python.defaultInterpreterPath": "c:\\Users\\caios\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe"
+}
