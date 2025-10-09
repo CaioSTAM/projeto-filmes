@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django specific
+media/ # If you're serving media files from a volume, not in the image
+static/ # If you're collecting static files into a volume, not in the image
+db.sqlite3 # Local development database
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Git related
+.git/
+.gitignore
+
+# Docker specific
+Dockerfile
+.dockerignore
+
+# Sensitive files (example - adjust as needed)
+.env
+settings_local.py
